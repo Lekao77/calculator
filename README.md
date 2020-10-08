@@ -2,6 +2,7 @@ Calculator.js: a node.js Demonstration Project
 ==============================================
 An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
+[![Build Status](https://alexnobre.visualstudio.com/Cntr1Proj/_apis/build/status/Lekao77.calculator?branchName=master)](https://alexnobre.visualstudio.com/Cntr1Proj/_build/latest?definitionId=17&branchName=master)
 
 The project contains a simple node.js application that exposes REST APIs
 to perform arithmetic on integers, and provides a test suite with mocha
